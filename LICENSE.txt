@@ -1,0 +1,16 @@
+Nomoresurf License Agreement
+Copyright (c) 2025 The Author
+
+Permission to use this software is granted under the following conditions:
+
+1. You are granted a non-exclusive, non-transferable, revocable license to use Nomoresurf for personal or internal business purposes.
+2. You may not modify, distribute, sell, sublicense, or reverse-engineer the software.
+3. You may not remove or alter any copyright or branding elements.
+4. This software is proprietary and remains the intellectual property of its author.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+A fully signed version may be available in the future through the App Store. If you’d like to support development, consider buying me a coffee.
+
+Support Development:
+If you find Nomoresurf useful and would like to support future updates (including a properly signed version for macOS), you can buy me a coffee: https://buymeacoffee.com/consistentcat
