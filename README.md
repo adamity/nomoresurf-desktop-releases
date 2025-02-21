@@ -1,6 +1,28 @@
+<p align="center">
+  <img src="images/icon.png" alt="Nomoresurf Icon" width="200" height="200">
+</p>
+
 # Nomoresurf Releases
 
 This repository contains official releases for **Nomoresurf**, a productivity-focused website blocker for macOS.
+
+## Screenshots
+
+<p align="center">
+  <img src="images/main-window-dark.png" alt="Nomoresurf Main Window (Dark)" width="800">
+</p>
+
+<p align="center">
+  <img src="images/main-window-light.png" alt="Nomoresurf Main Window (Light)" width="800">
+</p>
+
+<p align="center">
+  <img src="images/unblock-view.png" alt="Nomoresurf Unblock View" width="800">
+</p>
+
+<p align="center">
+  <img src="images/confirm-unblock-view.png" alt="Nomoresurf Confirm Unblock View" width="800">
+</p>
 
 ## Overview
 
@@ -35,6 +57,10 @@ Since the app is not yet signed, macOS will block it by default. To run it anywa
 6. Under Security, find the message about Nomoresurf being blocked.
 7. Click Open Anyway.
 8. Try opening the app again.
+
+<p align="center">
+  <img src="images/bypass-gatekeep.gif" alt="Nomoresurf Confirm Unblock View" width="800">
+</p>
 
 ## Support & Future Plans
 
